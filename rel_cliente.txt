@@ -1,0 +1,3 @@
+RELATÓRIO DE CLIENTES
+
+Este arquivo representa o relatório de clientes do sistema.
